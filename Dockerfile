@@ -1,6 +1,6 @@
 FROM node:4.4
 
-MAINTAINER LUXNETWORK Engineering <eng@luxnetwork.lu>
+MAINTAINER Jaime Vélez - Ingeniero Télemático.
 
 # Download GenieACS
 RUN cd /opt && git clone https://github.com/zaidka/genieacs.git
